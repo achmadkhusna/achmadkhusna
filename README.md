@@ -7,7 +7,7 @@
 There are several projects that I have created, one of which is the BMI calculator. and for the first time I participated in an independent study from Infinite Learning.</h4>
 <h4 align="center">My education level started from kindergarten, elementary school in Pati, junior high school in Pati, high school in Pati and undergraduate college at Unissula Semarang.</h4>
 <br>
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 
 - 🌱 I’m currently learning **Laravel,CodeIgniter,React,Node.js**
