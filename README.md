@@ -6,10 +6,8 @@
 <h4 align="center">Currently I am focused on developing myself to become a professional fullstack web developer.
 There are several projects that I have created, one of which is the BMI calculator. and for the first time I participated in an independent study from Infinite Learning.</h4>
 <h4 align="center">My education level started from kindergarten, elementary school in Pati, junior high school in Pati, high school in Pati and undergraduate college at Unissula Semarang.</h4>
+<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - 🌱 I’m currently learning **Laravel,CodeIgniter,React,Node.js**
@@ -20,7 +18,9 @@ There are several projects that I have created, one of which is the BMI calculat
 
 - 📫 How to reach me **achmadkhusnafz@gmail.com**
 
-- ⚡ Fun fact : **strange!, I feel like I've lost it, even though I didn't have time to have it :)**
+- ⚡ Fun fact : **strange!, I feel like I've lost it, even though
+  I didn't have time to have it :)**
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khusna_fz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achmad-khusna-faizuddin-21719024b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@khusna_fz) 
